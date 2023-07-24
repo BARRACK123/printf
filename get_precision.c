@@ -28,7 +28,7 @@ precision = va_arg(list, int);
 break;
 }
 else
-break;
+break; yes
 }
 *i = curr_i - 1;
 return (precision);

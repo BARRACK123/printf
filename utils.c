@@ -23,7 +23,7 @@ return (0);
 
 }
 
-
+L
 
 /**
  * append_hexa_code - Append ascci in hexadecimal code to buffer

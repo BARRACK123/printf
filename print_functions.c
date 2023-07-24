@@ -165,5 +165,5 @@ count++;
 }
 }
 return (count);
-}
-char
+}]]
+

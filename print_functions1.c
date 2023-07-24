@@ -28,7 +28,7 @@ num /= 10;
 }
 i++;
 return (write_unsgnd(0, i, buffer, flags, width, precision, size));
-}
+} write
 /************* PRINT UNSIGNED NUMBER IN OCTAL  ****************/
 /**
  * print_octal - Prints an unsigned number in octal notation

@@ -18,6 +18,5 @@ if (size == 0)
 *i = curr_i - 1;
 else
 *i = curr_i;
-return (size);
+return 
 }
-get
